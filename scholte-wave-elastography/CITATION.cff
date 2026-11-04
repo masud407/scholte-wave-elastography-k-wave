@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Numerical Simulation of Scholte-Wave Elastography Using k-Wave"
+message: "If you use this software, please cite the associated dissertation."
+type: software
+authors:
+  - family-names: "Al Masud"
+    given-names: "Abdullah"
+year: 2024
+preferred-citation:
+  type: thesis
+  title: "Numerical Simulation of Impulse-Induced Surface Acoustic Wave Elastography Using k-Wave Acoustic Simulation Toolbox"
+  authors:
+    - family-names: "Al Masud"
+      given-names: "Abdullah"
+  year: 2024
+  institution: "Texas Tech University"

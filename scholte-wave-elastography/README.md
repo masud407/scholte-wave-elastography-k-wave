@@ -105,7 +105,7 @@ The script can generate:
 This code accompanies the PhD dissertation:
 
 > **Al Masud, A. (2024). _Numerical Simulation of Impulse-Induced Surface Acoustic Wave Elastography Using k-Wave Acoustic Simulation Toolbox_. Texas Tech University.**
-
+> **Masud, A. A.**, & Liu, J. (2024). Numerical simulation of impulse-induced surface acoustic waves for elastography purposes using k-Wave simulation toolbox. Journal of Applied Physics, 136(16).
 The broader dissertation develops numerical frameworks for surface acoustic-wave elastography and investigates how acoustic excitation parameters affect wave generation, propagation, and tissue interrogation.
 
 ## Citation
